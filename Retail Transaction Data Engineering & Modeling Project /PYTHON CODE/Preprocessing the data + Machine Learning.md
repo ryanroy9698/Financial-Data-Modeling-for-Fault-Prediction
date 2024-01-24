@@ -25,12 +25,12 @@ Two feature engineering approaches are considered: using annual features and mon
   - Repeated the same steps as with annual features.
 
 ### 3. Comparison of Methods
-- Compared outcomes of steps 5-8 for both feature engineering approaches and three modeling approaches.
+- Compared outcomes of step 2 for both feature engineering approaches and three modeling approaches.
 - Selected the best combination for deployment in a production environment based on the comparison.
-- Tabularized findings in steps 5-8 to summarize results and support the decision.
+- Tabularized findings in step 2 to summarize results and support the decision.
 
 ## Findings and Decision
-- Summarized findings from steps 5-8 for each method.
+- Summarized findings from step 2 for each method.
 - Selected the most effective combination of feature engineering and modeling approach for deployment in a production environment.
 - Supported the decision with the provided tables and detailed results.
 
