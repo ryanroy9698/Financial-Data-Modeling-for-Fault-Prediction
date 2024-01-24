@@ -4,7 +4,7 @@ The task is to predict clients' response to a promotion campaign, treating it as
 ## Approach
 Two feature engineering approaches are considered: using annual features and monthly features. Three different algorithms are employed: Logistic Regression with L1 regularization, Decision Tree, and Random Forests.
 
-# Feature Engineering Overview
+# Part 1: Feature Engineering Overview
 
 ## 1. Importing Data and Creating Anchor Date Columns
 ### 1.1 Importing and Data Transformation
